@@ -1,0 +1,13 @@
+I:\4° Semetre\ES3\Atividade das Listas de engenharia\Lista 3\Lista 3\bin\Debug\Lista 3.exe.config
+I:\4° Semetre\ES3\Atividade das Listas de engenharia\Lista 3\Lista 3\bin\Debug\Lista 3.exe
+I:\4° Semetre\ES3\Atividade das Listas de engenharia\Lista 3\Lista 3\bin\Debug\Lista 3.pdb
+I:\4° Semetre\ES3\Atividade das Listas de engenharia\Lista 3\Lista 3\obj\Debug\Lista 3.exe
+I:\4° Semetre\ES3\Atividade das Listas de engenharia\Lista 3\Lista 3\obj\Debug\Lista 3.pdb
+F:\4° Semetre\ES3\Atividade das Listas de engenharia\Lista 3\Lista 3\bin\Debug\Lista 3.exe.config
+F:\4° Semetre\ES3\Atividade das Listas de engenharia\Lista 3\Lista 3\bin\Debug\Lista 3.exe
+F:\4° Semetre\ES3\Atividade das Listas de engenharia\Lista 3\Lista 3\bin\Debug\Lista 3.pdb
+F:\4° Semetre\ES3\Atividade das Listas de engenharia\Lista 3\Lista 3\obj\Debug\Lista 3.csprojResolveAssemblyReference.cache
+F:\4° Semetre\ES3\Atividade das Listas de engenharia\Lista 3\Lista 3\obj\Debug\Lista 3.exe
+F:\4° Semetre\ES3\Atividade das Listas de engenharia\Lista 3\Lista 3\obj\Debug\Lista 3.pdb
+I:\4° Semetre\ES3\Atividade das Listas de engenharia\Lista 3\Lista 3\obj\Debug\Lista 3.csprojAssemblyReference.cache
+I:\4° Semetre\ES3\Atividade das Listas de engenharia\Lista 3\Lista 3\obj\Debug\Lista 3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.1
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista 3", "Lista 3\Lista 3.csproj", "{7FCAADBC-A976-4A8B-BFA4-6CBDF7E1756A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FCAADBC-A976-4A8B-BFA4-6CBDF7E1756A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCAADBC-A976-4A8B-BFA4-6CBDF7E1756A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCAADBC-A976-4A8B-BFA4-6CBDF7E1756A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCAADBC-A976-4A8B-BFA4-6CBDF7E1756A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
